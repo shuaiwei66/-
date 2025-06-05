@@ -84,8 +84,8 @@
         <ul class="resources-list">
             <!-- 示例资源 -->
             <li>
-                <a href="https://example.com/resource1" target="_blank">资源1：Python编程入门教程</a>
-                <p>这是一个Python编程的入门教程，适合初学者。</p>
+                <a href="www.github.com" target="_blank">工具1：自建个人网页</a>
+                <p>操作：登陆github注册后新建仓库（repository）并命名，在该仓库中点最末选项卡Settings，在其中找到Pages。在“生成和部署（Build and deployment）”的 “分支（Branch）”下，使用分支下拉菜单并选择发布源main，点save。自有站点的标题为 username.github.io </p>
             </li>
             <li>
                 <a href="https://example.com/resource2" target="_blank">资源2：数据结构与算法</a>
