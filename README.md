@@ -84,7 +84,7 @@
         <ul class="resources-list">
             <!-- 示例资源 -->
             <li>
-                <a href="www.github.com">工具1：自建个人网页</a>
+                <a href="www.github.com"target="_www.github.com">工具1：自建个人网页</a>
                 <p>操作：登陆github注册后新建仓库（repository）并命名。在该仓库中点code，将代码写入readme。在该仓库中最末选项卡Settings，在其中找到Pages。在“生成和部署（Build and deployment）”的 “分支（Branch）”下，使用分支下拉菜单并选择发布源main，点save。自有站点的标题为 username.github.io </p>
             </li>
             <li>
